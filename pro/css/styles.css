@@ -5,6 +5,7 @@ body{
     flex-direction: column;
     color: rgb(90, 10, 110);
     text-shadow: 1px 1px #fff;
+    text-shadow: 0 0 10px rgba(226, 33, 43, 0.7);
 }
 
 .for1{
@@ -19,6 +20,7 @@ body{
     box-shadow: inset 10px 10px 6px 3px #ffcae7;
     color: rgb(90, 10, 110);
         text-shadow: 1px 1px #fff;
+        text-shadow: 0 0 10px rgba(226, 33, 43, 0.7);
 }
 
 .for2{
@@ -34,12 +36,13 @@ body{
     font-family: fantasy;
     color: rgb(90, 10, 110);
         text-shadow: 1px 1px #fff;
+        text-shadow: 0 0 10px rgba(226, 33, 43, 0.7);
 }
 
 
 .navbar{
     background-color: #EEEEEE;
-    height: 50px;
+    height: 30px;
     display: flex;
     align-items: center;
     width: 1289px;
@@ -49,6 +52,7 @@ body{
     font-family: fantasy;
     color: rgb(90, 10, 110);
         text-shadow: 1px 1px #fff;
+        text-shadow: 0 0 10px rgba(226, 33, 43, 0.7);
 }
 
 .input-form{
@@ -63,6 +67,7 @@ body{
     font-family: fantasy;
     color: rgb(90, 10, 110);
         text-shadow: 1px 1px #fff;
+        text-shadow: 0 0 10px rgba(226, 33, 43, 0.7);
 }
 
 .flex-container1{
@@ -93,7 +98,7 @@ body{
     margin: 5px;
     width: 600px;
     background-color: rgb(233, 167, 211);
-    padding: 50px;
+    padding: 25px;
     font-size: 20px;
     border-radius: 5px;
     border: 1px solid #999999;
@@ -104,7 +109,7 @@ body{
 }
 .input-formu{
     margin: 10px;
-    width: 50px;
+    width: 35px;
     background-color: rgb(232, 206, 233);
     padding: 5px;
     font-size: 20px;
@@ -113,6 +118,7 @@ body{
     box-shadow: inset 10px 10px 6px 3px #ecd5f7;
     margin: 0.6em;
     font-family: fantasy;
+    text-shadow: 0 0 10px rgba(226, 33, 43, 0.7);
     
 }
 
@@ -121,7 +127,7 @@ body{
     flex-direction: row;
     justify-content: space-evenly;
     align-items: stretch;
-    width: 30px;
+    width: 25px;
     background-color: rgb(232, 206, 233);
     padding: 30px;
     font-size: 12px;
@@ -130,16 +136,18 @@ body{
     box-shadow: inset 10px 10px 6px 3px #c2a5f1;
     margin: 0.6em;
     font-family: fantasy;
-   
+    text-shadow: 0 0 10px rgba(226, 33, 43, 0.7);
     
 }
 
 .container-icons{
     position: right;
     left: 15px;
+    
 }
 
 .icons{
+   
     display: flex;
     justify-content: right;
     align-items: center;
@@ -148,11 +156,13 @@ body{
     background-color: rgb(195, 202, 188);
     padding: 20px;
     border-radius: 12px solid black;
-    box-shadow: inset 10px 10px 6px 3px #a58aac;
+    box-shadow: inset 10px 10px 6px 3px #c272d6;
+    
     margin: 5 5 5;
     position: left;
     left: 15px;
     top: 530px;
+   
     
 }
 
@@ -170,5 +180,6 @@ body{
     font-family: fantasy;
         color: rgb(90, 10, 110);
         text-shadow: 1px 1px #fff;
+        text-shadow: 0 0 10px rgba(226, 33, 43, 0.7);
     
 }
